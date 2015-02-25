@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=int\ main(java.lang.String[])
+comment1.params=closed\ state
+comment1.target=boolean\ closed_check(java.util.ArrayList,\ EightPuzzle)
+comment2.params=open\ state
+comment2.target=boolean\ open_check(java.util.PriorityQueue,\ EightPuzzle)
+comment3.params=open
+comment3.target=void\ printOpen(java.util.PriorityQueue)
+comment4.params=closed
+comment4.target=void\ printClosed(java.util.ArrayList)
+comment5.params=s\ path
+comment5.target=void\ make_path(java.lang.String,\ java.util.HashMap)
+numComments=6
